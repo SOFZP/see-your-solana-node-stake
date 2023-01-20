@@ -10,3 +10,6 @@
 
 or add ANY identity + cluster (-um OR -ut)
 `./CVK-see-your-stake.bash <NODE_IDENTITY> <-um OR -ut>`
+
+Example (my testnet stake) :
+![Example (my testnet stake)](/example_stake_test.png "my testnet stake")
