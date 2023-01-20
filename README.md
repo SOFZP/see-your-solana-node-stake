@@ -8,5 +8,5 @@
 3. Run without keys
 `./CVK-see-your-stake.bash`
 
-or add identity + cluster (-um OR -ut)
+or add ANY identity + cluster (-um OR -ut)
 `./CVK-see-your-stake.bash <NODE_IDENTITY> <-um OR -ut>`
