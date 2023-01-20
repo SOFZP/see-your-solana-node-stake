@@ -1,5 +1,4 @@
-# see-your-solana-node-stake
-Show solana node stake for any node
+# Show Solana node stakers for any node
 
 1. Upload the script file to the user's folder on the server
 
