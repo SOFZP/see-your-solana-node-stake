@@ -1,4 +1,5 @@
 # Show Solana node stakers for any node
+(old version)
 
 1. Upload the script file to the user's folder on the server
 
